@@ -8,3 +8,8 @@
  Step 3. Create a webhook using postman to automatically call your hosted app daily on specificed time.
 
  Step 4. Congratulations! On automatically getting a new Daily Blink in your Notion database of Daily Blink.
+
+
+## Special Thanks
+
+[Peter Stein](https://github.com/ptrstn) for the amazing [dailyblink](https://github.com/ptrstn/dailyblink)
