@@ -1,1 +1,7 @@
-# daily_blink
+# Daily Blink to Notion 
+
+
+Step 1. Add your Database ID and Token from Notion
+Step 2. Create a Flask app based on the code and Host your app using Glitch or any other service
+Step 3. Create a webhook using postman to automatically call your hosted app daily on specificed time
+Step 4. Congratulations! Getting Notion database of Daily Blink 
